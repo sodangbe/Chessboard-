@@ -1,0 +1,17 @@
+{
+  "name": "chessboardgame",
+  "version": "1.0.0",
+  "description": "ES6 module base, responsive,svg chessboardgame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "chessboard",
+    "svg",
+    "ES6"
+  ],
+  "author": "Romeo Adjam",
+  "license": "MIT"
+}
